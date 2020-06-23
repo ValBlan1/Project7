@@ -11,6 +11,7 @@ public class useArray {
         for (int j = 0; j < array.length; j++) {
             array[j] = sc.nextInt();
         }
+        System.out.println("Retrieving data from Array");
         for(int i=0; i<array.length;i++) {
             System.out.println(array[i]);
         }
