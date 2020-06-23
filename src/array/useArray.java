@@ -8,6 +8,7 @@ public class useArray {
         int[] array = new int[6];
         Scanner sc = new Scanner(System.in);
         System.out.println("please Enter some numbers:");
+        System.out.println("Storing data");
         for (int j = 0; j < array.length; j++) {
             array[j] = sc.nextInt();
         }
