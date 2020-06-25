@@ -2,7 +2,7 @@ package string.operation;
 
 import java.util.Scanner;
 
-public class string {
+public class API {
     public static void main(String[] args) {
         System.out.println("Please enter ten numbers:");
         Scanner sc = new Scanner(System.in);
